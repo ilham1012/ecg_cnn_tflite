@@ -16,7 +16,7 @@ The model was adapted from acharya's model[2], using a 9 layers-deep Convolution
 ## Android app
 The android app here is a proof-of-concept. It was built as a testing bed for testing the inference processing time of the model in the smartphone.
 
-![Android app screenshot](img/sc1.png "Android app screenshot")
+<img src="img/sc1.png"  width="25%" height="25%">
 
 The app will show the class of prediction vs true class. It also shows the confidence level of its top prediction
 
